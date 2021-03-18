@@ -1,8 +1,8 @@
 {
-  "profile": [
+  "clientes": [
     {
-      "nome": "felipe",
-      "email": "felipe@alura.com",
+      "nome": "joao",
+      "email": "joao@email",
       "id": 1
     },
     {
@@ -24,6 +24,14 @@
       "nome": "Viviane",
       "email": "vivianepvs@gmail.com",
       "id": 5
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Coleira",
+      "preco": 10.15,
+      "descricao": "coleira para caes e gatos pequenos",
+      "id": 1
     }
   ]
 }
